@@ -132,5 +132,10 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
+		{
+			"name": "yamaha",
+			"description": "CDN for yamaha updates",
+			"domain_files": ["yamaha.txt"]
+		}
 	]
 }
